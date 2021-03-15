@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+.Mail{
+    border-style:inset;
+    margin-bottom: 5px;
+    
+}
+.sender{
+    color:gray;
+}
