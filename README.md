@@ -1,5 +1,5 @@
 <h1> Mail </h1>
-A simple mail platform built for Project3 of CS50W using Javascript and Django.
+A simple mail platform built for Project3 of CS50W using Javascript and Python.
 
 <h2>Setup</h2>
 1. Clone the repo:
