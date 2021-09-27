@@ -5,7 +5,7 @@ A simple mail platform built for Project3 of CS50W using Javascript and Python.
 1. Clone the repo:
 
 ```
-git clone https://github.com/6f0a/app-mail
+git clone https://github.com/6f0a/mail-app
 cd mail
 ```
 2. Install dependencies:
